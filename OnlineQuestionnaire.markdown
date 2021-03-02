@@ -9,9 +9,9 @@
 
     Rank: concrete experiences, active experimentation, reflective observation, abstract conceptualisation (rank 1  = most effective, rank 2 = a little less effective, etc)
 
-4. Reflecting on classes you have taken in the past, please rank the following learning activities by their effectiveness for you (click/drag to rank: rank 1 = most effective, rank 2 = a little less effective, etc)
+4. Reflecting on classes you have taken in the past, please rank the following learning activities by their effectiveness for you 
 
-    Rank: lectures, completing exercises, doing projects, writing essays
+    Rank: lectures, completing exercises, doing projects, writing essays (rank 1 = most effective, rank 2 = a little less effective, etc)
 
 5. Have you work experience?
 
